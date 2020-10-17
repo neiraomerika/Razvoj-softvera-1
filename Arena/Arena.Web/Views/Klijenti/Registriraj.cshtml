@@ -1,0 +1,65 @@
+﻿@model Arena.Web.ViewModels.Klijenti.KlijentRegistrirajVM
+@{
+    Layout = "_LayoutAutorizacija";
+}
+
+<div class="login-box mt-3">
+    <!-- /.login-logo -->
+    <div class="card ">
+        <div class="card-body login-card-body">
+            <p class="login-box-msg">Prijavite se kako bi nastavili</p>
+            <div asp-validation-summary="ModelOnly" class="summary-errors alert alert-danger"></div>
+            <form asp-action="Registriraj" method="post" autocomplete="off">
+                <div class="form-group">
+                    <label asp-for="@Model.Username"></label>
+                    <input asp-for="@Model.Username" class="form-control">
+                    <span class="text-danger" asp-validation-for="@Model.Username"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.Password"></label>
+                    <input asp-for="@Model.Password" class="form-control">
+                    <span class="text-danger" asp-validation-for="@Model.Password"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="@Model.OdabraniGradId"></label>
+                    <select asp-for="@Model.OdabraniGradId" asp-items="@Model.Gradovi" class="form-control"></select>
+                    <span class="text-danger" asp-validation-for="@Model.OdabraniGradId"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="@Model.Ime"></label>
+                    <input asp-for="@Model.Ime" class="form-control">
+                    <span class="text-danger" asp-validation-for="@Model.Ime"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.Prezime"></label>
+                    <input asp-for="@Model.Prezime" class="form-control">
+                    <span class="text-danger" asp-validation-for="@Model.Prezime"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.Spol"></label>
+                    <input asp-for="@Model.Spol" class="form-control">
+                    <span class="text-danger" asp-validation-for="@Model.Spol"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.JBMG"></label>
+                    <input asp-for="@Model.JBMG" class="form-control">
+                    <span class="text-danger" asp-validation-for="@Model.JBMG"></span>
+                </div>
+                <div class="row">
+                    <!-- /.col -->
+                    <div class="col-12">
+                        <button type="submit" class="btn btn-primary btn-block">Registriraj se</button>
+                    </div>
+                    <!-- /.col -->
+                </div>
+            </form>
+            <p class="mb-0 mt-3">
+                <a asp-controller="Autentifikacija" asp-action="Prijava" class="text-center">Imaš account? Prijavi se</a>
+            </p>
+
+        </div>
+        <!-- /.login-card-body -->
+    </div>
+</div>

@@ -1,0 +1,106 @@
+﻿@model Arena.Web.ViewModels.Korisnici.KorisnikPretragaVM
+@{
+    ViewData["Title"] = "Korisnici";
+}
+
+
+<div class="row">
+
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-body">
+                <form asp-action="Pretraga" method="post" autocomplete="off">
+                    <div class="row">
+
+                        <div class="form-group col-md-4">
+                            <label asp-for="@Model.Username"></label>
+                            <input asp-for="@Model.Username" class="form-control" />
+                        </div>
+                        <div class="form-group col-md-4">
+                            <button type="submit" class="btn btn-primary ">Pretraga</button>
+                        </div>
+
+                    </div>
+                </form>
+
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12">
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Korisnici</h3>
+
+                <a asp-controller="Korisnici" asp-action="DodajUposlenik" class="btn btn-outline-primary float-right">Dodaj uposlenika</a>
+            </div>
+            <!-- /.card-header -->
+            <div class="card-body p-0">
+                <table class="table table-striped">
+
+
+
+                    <thead>
+                        <tr>
+                            <th style="width: 10px">#ID</th>
+                            <th>Korisničko ime</th>
+                            <th>Ime i prezime</th>
+                            <th>Uloga</th>
+                            <th>Spol</th>
+                            <th>JMBG</th>
+                            <th>Grad</th>
+                            <th>Akcije</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+
+                        @foreach (var item in Model.RezultatPretrage)
+                        {
+                            <tr>
+                                <td>@item.ID</td>
+                                <td>@item.Username</td>
+                                <td>@item.Ime  @item.Prezime</td>
+                                <td>
+                                    @if (item.IsAdministrator)
+                                    {
+                                        <span>Administrator</span>
+                                    }
+                                    else if (item.IsKlijent)
+                                    {
+                                        <span>Klijent</span>
+                                    }
+                                    else
+                                    {
+                                        <span>Uposlenik</span>
+                                    }
+                                </td>
+                                <td>@item.Spol</td>
+                                <td>@item.JMBG</td>
+                                <td>@item.Grad</td>
+                                <td>
+                                    @if (item.IsKlijent)
+                                    {
+                                        <a asp-controller="Korisnici" asp-action="EditKlijent" asp-route-id="@item.ID">
+                                            <i class="fas fa-edit"></i> Izmjeni
+                                        </a>
+                                    }
+                                    @if (item.IsUposlenik)
+                                    {
+                                        <a asp-controller="Korisnici" asp-action="EditUposlenik" asp-route-id="@item.ID">
+                                            <i class="fas fa-edit"></i> Izmjeni
+                                        </a>
+                                    }
+                                  
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <!-- /.card-body -->
+        </div>
+
+    </div>
+
+</div>

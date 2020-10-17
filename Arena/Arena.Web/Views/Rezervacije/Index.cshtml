@@ -1,0 +1,102 @@
+﻿@model Arena.Web.ViewModels.Rezervacije.RezervacijePretragaVM
+@{
+    ViewData["Title"] = "Rezervacije";
+}
+
+
+<div class="row">
+
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-body">
+                <form asp-action="Pretraga" method="post" autocomplete="off">
+                    <div class="row">
+
+                        <div class="form-group col-md-4">
+                            <label asp-for="@Model.OdabranaDvorana"></label>
+                            <select asp-for="@Model.OdabranaDvorana"
+                                    asp-items="@Model.Dvorane"
+                                    class="form-control">
+                            </select>
+                        </div>
+                        <div class="form-group col-md-4">
+                            <label asp-for="@Model.ImeKlijenta"></label>
+                            <input asp-for="@Model.ImeKlijenta" class="form-control" />
+                        </div>
+                        <div class="form-group col-md-4">
+                            <label asp-for="@Model.PrezimeKlijenta"></label>
+                            <input asp-for="@Model.PrezimeKlijenta" class="form-control" />
+                        </div>
+                        <div class="form-group col-md-4">
+                            <button type="submit" class="btn btn-primary ">Pretraga</button>
+                        </div>
+
+                    </div>
+                </form>
+
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12">
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Rezervacije</h3>
+                <a asp-controller="Rezervacije" asp-action="Dodaj" class="btn btn-outline-primary float-right">Dodaj</a>
+
+            </div>
+            <!-- /.card-header -->
+            <div class="card-body p-0">
+                <table class="table table-striped">
+
+
+                    @*public int ID { get; set; }
+                    public int TerminID { get; set; }
+
+                    public DateTime DatumIVrijemeTermina { get; set; }
+                    public string NazivDvorane { get; set; }
+                    public bool Placeno { get; set; }
+
+                    public string Ime { get; set; }
+                    public string Prezime { get; set; }
+
+                    public bool OdobrenaRezervacija { get; set; }*@
+                    <thead>
+                        <tr>
+                            <th style="width: 10px">#ID</th>
+                            <th>Datum termina</th>
+                            <th>Dvorana</th>
+                            <th>Placeno</th>
+                            <th>Ime i prezime klijenta</th>
+                            <th>Je odobrena?</th>
+                            <th>Akcije</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+
+                        @foreach (var item in Model.RezultatPretrage)
+                        {
+                            <tr>
+                                <td>@item.ID</td>
+                                <td>@item.DatumIVrijemeTermina.ToString("dd.MM.yyyy HH:mm")</td>
+                                <td>@item.NazivDvorane</td>
+                                <td>@item.Placeno</td>
+                                <td>@item.Ime  @item.Prezime</td>
+                                <td>@item.OdobrenaRezervacija</td>
+                                <td>
+                                    <a asp-controller="Rezervacije" asp-action="Edit" asp-route-id="@item.ID">
+                                        <i class="fas fa-edit"></i> Izmjeni
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <!-- /.card-body -->
+        </div>
+
+    </div>
+
+</div>

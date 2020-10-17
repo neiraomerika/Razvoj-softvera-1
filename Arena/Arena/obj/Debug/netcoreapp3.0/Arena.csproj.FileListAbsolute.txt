@@ -1,0 +1,195 @@
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.exe
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.deps.json
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.runtimeconfig.json
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.runtimeconfig.dev.json
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.pdb
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.csprojAssemblyReference.cache
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.AssemblyInfoInputs.cache
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.AssemblyInfo.cs
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.pdb
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.csproj.CopyComplete
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Arena_Data.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena\bin\Debug\netcoreapp3.0\Arena_Data.pdb
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.exe
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.deps.json
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.runtimeconfig.json
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.runtimeconfig.dev.json
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.pdb
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena_Data.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena_Data.pdb
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.csprojAssemblyReference.cache
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.AssemblyInfoInputs.cache
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.AssemblyInfo.cs
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.csproj.CopyComplete
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.pdb
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.exe
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.deps.json
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.runtimeconfig.json
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.runtimeconfig.dev.json
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.pdb
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena_Data.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena_Data.pdb
+C:\GIT\instrukcije\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.csprojAssemblyReference.cache
+C:\GIT\instrukcije\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.csproj.CoreCompileInputs.cache
+C:\GIT\instrukcije\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.AssemblyInfoInputs.cache
+C:\GIT\instrukcije\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.AssemblyInfo.cs
+C:\GIT\instrukcije\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.csproj.CopyComplete
+C:\GIT\instrukcije\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.pdb
+C:\GIT\instrukcije\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.genruntimeconfig.cache
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Core.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.exe
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.deps.json
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.runtimeconfig.json
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.runtimeconfig.dev.json
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena.pdb
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Core.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena_Data.dll
+C:\Instrukcije\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Arena_Data.pdb
+C:\Instrukcije\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.csprojAssemblyReference.cache
+C:\Instrukcije\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.csproj.CoreCompileInputs.cache
+C:\Instrukcije\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.AssemblyInfoInputs.cache
+C:\Instrukcije\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.AssemblyInfo.cs
+C:\Instrukcije\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.csproj.CopyComplete
+C:\Instrukcije\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.dll
+C:\Instrukcije\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.pdb
+C:\Instrukcije\WebApp\Arena\Arena\obj\Debug\netcoreapp3.0\Arena.genruntimeconfig.cache
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Identity.Stores.dll

@@ -1,0 +1,61 @@
+﻿@model Arena.Web.ViewModels.AjaxKlijentiVM;
+@{
+    Layout = null;
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Ime</td>
+            <td>Prezime</td>
+            <td>Korisničko ime</td>
+            <td>Spol</td>
+            <td>JMBG</td>
+            <td>Grad</td>
+            <td>Akcija</td>
+
+
+
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var x in Model.klijenti)
+        {
+            <tr>
+                <td>@x.Ime</td>
+                <td>@x.Prezime</td>
+                <td>@x.Username</td>
+                <td>@x.Spol</td>
+                <td>@x.JMBG</td>
+                <td>@x.Grad</td>
+                <td>
+                    <button id="btn1-@x.ID" class="btn btn-primary">Uredi</button>
+                    <button id="btn2-@x.ID" class="btn btn-danger">Obriši</button>
+
+                    <script>
+
+                        $("#btn1-@x.ID").click(function myfunction() {
+                            $.get("/AjaxKorisnici/UrediKlijenta?id=@x.ID", function (rezultat, status) {
+                                $("#ajaxPoziv").html(rezultat);
+                            })
+                        });
+
+                        $("btn2-@x.ID").click(function myfunction() {
+                            $.get("/AjaxKorisnici/ObrisiKlijenta?id=@x.ID", function (rezultat, status) {
+                                $("#ajaxPoziv").html(rezultat);
+                            })
+                        });
+
+                    </script>
+
+                </td>
+
+
+
+            </tr>
+        }
+    </tbody>
+
+
+</table>

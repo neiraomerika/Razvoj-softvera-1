@@ -1,0 +1,58 @@
+﻿@model Arena.Web.ViewModels.AjaxKorisniciUrediKlijentaVM;
+@{
+    Layout = null;
+}
+
+    <form class="form-inline" id="forma1" action="SnimiKlijenta" method="post">
+
+        <input type="number" value="@Model.ID" name="id" hidden />
+
+        <label style="width:10%">Korisničko ime:</label>
+        <input class="form-control" type="text" value="@Model.Username" name="username" required /><br />
+
+
+        <label style="width:10%">Lozinka:</label>
+        <input class="form-control" type="password" value="@Model.Lozinka" name="lozinka" required /><br />
+
+
+        <label style="width:10%">Ime:</label>
+        <input class="form-control" type="text" value="@Model.Ime" name="ime" /><br />
+
+
+        <label style="width:10%">Prezime:</label>
+        <input class="form-control" type="text" value="@Model.Prezime" name="prezime" /><br />
+
+
+        <label style="width:10%">Spol:</label>
+        <input class="form-control" type="text" value="@Model.Spol" name="spol" /><br />
+
+        <label style="width:10%">JMBG:</label>
+        <input class="form-control" type="text" value="@Model.JMBG" name="jmbg" /><br />
+
+        <select class="form-control"name="grad">
+            @foreach(var x in Model.Gradovi)
+            {
+               <option value="@x.Value">@x.Text</option>
+            }
+        </select>
+        <br />
+
+
+    </form>
+
+<input id="subbtn" type="submit"class="btn btn-primary" value="Snimi" />
+
+<script>
+    $("#subbtn").click(function (event) {
+        var forma = $("#forma1");
+        $.ajax(
+            {
+                type: "POST",
+                url: "/AjaxKorisnici/SnimiKlijenta",
+                data: forma.serialize(),
+                success: function (rezultat) {
+                    $("#ajaxPoziv").html(rezultat);
+                }
+            });
+    });
+</script>

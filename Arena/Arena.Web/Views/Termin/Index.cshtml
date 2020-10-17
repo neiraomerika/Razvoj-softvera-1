@@ -1,0 +1,78 @@
+﻿@model Arena.Web.ViewModels.Termini.TerminPretragaVM
+@{
+    ViewData["Title"] = "Termini";
+}
+
+
+<div class="row">
+
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-body">
+                <form asp-action="Pretraga" method="post" autocomplete="off">
+                    <div class="row">
+
+                        <div class="form-group col-md-4">
+                            <label asp-for="@Model.DvoranaId"></label>
+                            <select asp-for="@Model.DvoranaId"
+                                    asp-items="@Model.Dvorane"
+                                    class="form-control">
+                            </select>
+                        </div>
+                        <div class="form-group col-md-4">
+                            <button type="submit" class="btn btn-primary ">Pretraga</button>
+                        </div>
+
+                    </div>
+                </form>
+
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12">
+
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Termini</h3>
+
+                <a asp-controller="Termin" asp-action="Dodaj" class="btn btn-outline-primary float-right">Dodaj</a>
+            </div>
+            <!-- /.card-header -->
+            <div class="card-body p-0">
+                <table class="table table-striped">
+                 
+                    <thead>
+                        <tr>
+                            <th style="width: 10px">#ID</th>
+                            <th>Datum</th>
+                            <th>Dvorana</th>
+                            <th>Cijena</th>
+                            <th>Akcije</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                 
+                        @foreach (var item in Model.RezultatPretrage)
+                        {
+                            <tr>
+                                <td>@item.Id</td>
+                                <td>@item.Datum.ToString("dd.MM.yyyy HH:mm")</td>
+                                <td>@item.NazivDvorane</td>
+                                <td>@item.Cijena</td>
+                                <td>
+                                    <a asp-controller="Termin" asp-action="Edit" asp-route-id="@item.Id">
+                                        <i class="fas fa-edit"></i> Izmjeni
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <!-- /.card-body -->
+        </div>
+
+    </div>
+
+</div>

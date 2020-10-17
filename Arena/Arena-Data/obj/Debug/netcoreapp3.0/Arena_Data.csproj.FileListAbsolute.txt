@@ -1,0 +1,44 @@
+C:\Users\NeiraOmerika\source\repos\Arena\Arena-Data\bin\Debug\netcoreapp3.0\Arena_Data.deps.json
+C:\Users\NeiraOmerika\source\repos\Arena\Arena-Data\bin\Debug\netcoreapp3.0\Arena_Data.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.AssemblyInfoInputs.cache
+C:\Users\NeiraOmerika\source\repos\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.AssemblyInfo.cs
+C:\Users\NeiraOmerika\source\repos\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.csprojAssemblyReference.cache
+C:\Users\NeiraOmerika\source\repos\Arena\Arena-Data\bin\Debug\netcoreapp3.0\Arena_Data.runtimeconfig.json
+C:\Users\NeiraOmerika\source\repos\Arena\Arena-Data\bin\Debug\netcoreapp3.0\Arena_Data.runtimeconfig.dev.json
+C:\Users\NeiraOmerika\source\repos\Arena\Arena-Data\bin\Debug\netcoreapp3.0\Arena_Data.pdb
+C:\Users\NeiraOmerika\source\repos\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.dll
+C:\Users\NeiraOmerika\source\repos\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.pdb
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena-Data\bin\Debug\netcoreapp3.0\Arena_Data.deps.json
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena-Data\bin\Debug\netcoreapp3.0\Arena_Data.runtimeconfig.json
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena-Data\bin\Debug\netcoreapp3.0\Arena_Data.runtimeconfig.dev.json
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena-Data\bin\Debug\netcoreapp3.0\Arena_Data.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena-Data\bin\Debug\netcoreapp3.0\Arena_Data.pdb
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.csprojAssemblyReference.cache
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.AssemblyInfoInputs.cache
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.AssemblyInfo.cs
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.dll
+C:\Users\NeiraOmerika\Desktop\Seminarski rad\WebApp\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.pdb
+C:\GIT\instrukcije\WebApp\Arena\Arena-Data\bin\Debug\netcoreapp3.0\Arena_Data.deps.json
+C:\GIT\instrukcije\WebApp\Arena\Arena-Data\bin\Debug\netcoreapp3.0\Arena_Data.runtimeconfig.json
+C:\GIT\instrukcije\WebApp\Arena\Arena-Data\bin\Debug\netcoreapp3.0\Arena_Data.runtimeconfig.dev.json
+C:\GIT\instrukcije\WebApp\Arena\Arena-Data\bin\Debug\netcoreapp3.0\Arena_Data.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena-Data\bin\Debug\netcoreapp3.0\Arena_Data.pdb
+C:\GIT\instrukcije\WebApp\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.csprojAssemblyReference.cache
+C:\GIT\instrukcije\WebApp\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.csproj.CoreCompileInputs.cache
+C:\GIT\instrukcije\WebApp\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.AssemblyInfoInputs.cache
+C:\GIT\instrukcije\WebApp\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.AssemblyInfo.cs
+C:\GIT\instrukcije\WebApp\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.dll
+C:\GIT\instrukcije\WebApp\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.pdb
+C:\GIT\instrukcije\WebApp\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.genruntimeconfig.cache
+C:\Instrukcije\WebApp\Arena\Arena-Data\bin\Debug\netcoreapp3.0\Arena_Data.deps.json
+C:\Instrukcije\WebApp\Arena\Arena-Data\bin\Debug\netcoreapp3.0\Arena_Data.runtimeconfig.json
+C:\Instrukcije\WebApp\Arena\Arena-Data\bin\Debug\netcoreapp3.0\Arena_Data.runtimeconfig.dev.json
+C:\Instrukcije\WebApp\Arena\Arena-Data\bin\Debug\netcoreapp3.0\Arena_Data.dll
+C:\Instrukcije\WebApp\Arena\Arena-Data\bin\Debug\netcoreapp3.0\Arena_Data.pdb
+C:\Instrukcije\WebApp\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.csprojAssemblyReference.cache
+C:\Instrukcije\WebApp\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.csproj.CoreCompileInputs.cache
+C:\Instrukcije\WebApp\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.AssemblyInfoInputs.cache
+C:\Instrukcije\WebApp\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.AssemblyInfo.cs
+C:\Instrukcije\WebApp\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.dll
+C:\Instrukcije\WebApp\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.pdb
+C:\Instrukcije\WebApp\Arena\Arena-Data\obj\Debug\netcoreapp3.0\Arena_Data.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿@model Arena.Web.ViewModels.AjaxAdministratoriVM;
+@{
+    Layout = null;
+}
+
+<table class="table">
+
+    <thead>
+        <tr>
+            <td>Ime</td>
+            <td>Prezime</td>
+            <td>Korisničko ime</td>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var x in Model.admini)
+        {
+            <tr>
+                <td>@x.Ime</td>
+                <td>@x.Prezime</td>
+                <td>@x.Username</td>
+
+            </tr>
+        }
+    </tbody>
+
+
+
+</table>
+

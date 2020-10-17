@@ -1,0 +1,43 @@
+﻿@model Arena.Web.ViewModels.LoginVM
+@{
+    Layout = "_LayoutAutorizacija";
+}
+<div class="login-box">
+    <!-- /.login-logo -->
+    <div class="card">
+        <div class="card-body login-card-body">
+            <p class="login-box-msg">Prijavite se kako bi nastavili</p>
+            <div asp-validation-summary="ModelOnly" class="summary-errors alert alert-danger"></div>
+            <form asp-action="Prijava" method="post">
+                <div class="form-group">
+                    <label asp-for="@Model.Username"></label>
+                    <input asp-for="@Model.Username" class="form-control">
+                    <span class="text-danger" asp-validation-for="@Model.Username"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="@Model.Password"></label>
+                    <input asp-for="@Model.Password" class="form-control">
+                    <span class="text-danger" asp-validation-for="@Model.Password"></span>
+                </div>
+                <div class="row">
+                    <div class="col-8">
+                        <div class="icheck-primary">
+                            <input asp-for="@Model.ZapamtiPassword" type="checkbox">
+                            <label asp-for="@Model.ZapamtiPassword"></label>
+                        </div>
+                    </div>
+                    <!-- /.col -->
+                    <div class="col-4">
+                        <button type="submit" class="btn btn-primary btn-block">Prijavi se</button>
+                    </div>
+                    <!-- /.col -->
+                </div>
+            </form>
+            <p class="mb-0 mt-3">
+                <a asp-controller="Klijenti" asp-action="Registriraj" class="text-center">Registriraj se</a>
+            </p>
+
+        </div>
+        <!-- /.login-card-body -->
+    </div>
+</div>
